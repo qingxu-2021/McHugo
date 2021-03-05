@@ -4,7 +4,7 @@ const axios = require('axios').default;
 exports.handler = async (event, context, callback) => {
   try {
 
-    const doc = new GoogleSpreadsheet('1quYbWU9PCt0rWHqtTWVVw61MpFtMxJJKdbl5A-4G2ZM')
+    const doc = new GoogleSpreadsheet('1emRU47tndHqyenGHNL60T69ybyaZv3Y_mUrzqckpCIQ')
     await doc.useServiceAccountAuth(require('./netlify.json'))
     await doc.loadInfo()
     const sheet = doc.sheetsByIndex[0];//const sheet = await doc.addSheet({ headerValues: ['t', 'ip'] });
