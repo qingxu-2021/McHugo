@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "netlifysitetemplate",
+  "private_key_id": "c7dae7d99b353a3cf9a1975c8dbd0cec2436aa20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCerv2BlQeKvDaY\nZfdRaaGyKi1ioqf3axcBIEEsrut/XSGYBVwsCBRrD7Q9qJ051sGPEHfuN9guznd1\nWCFkrtm3Mt5XeJkeATGdwmGLFWYAtxySpFsnaRvUnUiupFVRH+hPRJVfqVoQQCGv\nAO2SDM0/BaI6OIoxPN071qIEQ5+KVxbPBfNOis3CEsZ/CtzKIy6RXW5X2ZcrGf2b\nPwMV/tjtNRAa78rJRNIwokbrwtSCY9uFWOtNS4RGkmwPG9GBSlTO55mXZiMxIghE\n4f7AuZRzN+UExVBTxoCFMhc9gbCEImRQSMpv8L9415F7chlt+57zjvZyMDfuY93l\nlqO/XBuFAgMBAAECggEATesGPv1jRSvzMPUMspTIWbhdLcxJ5vNWSe7BIgRITfN4\nnfGv100mXYXKDua/QVnjFHFVOouAY0dtoBik2RAEhvD6/X+RzApxBxKeHBHnUt2X\nMahzvA/gIxASUvMNk7azt0ypfl4lg8pB3/F4NlmD5PjKtoTx0oic55eWWbqs2dvw\ncqvvKS+T0xDdCORBWCVijG6MPZbDNzGmhAk2GILIPU/WAshYXxDekqlRbIHbBhjQ\nH7p4PIpeo+8/Px1CpDqKew/fCWnapPLJkOewzzvZPXzdGk+Se4SkrA6XOe9QLVtf\nqRCthtPw3ZBHcKuYTknMGUS2XLefsOn7A1WlyesYtwKBgQDU5QiEjwIny+SjNmAn\nfbv09VkNPXhSuzXk/E5n/+Kcb0EDuoOknr/2zemRNnwQQde8opQRcWca0hOoRFLd\nSep9n+WIxokmfGEWVonpFsRXymnpUBPW2DrfKODmAuczmA+1btur8xddGrSWjHLH\nSjBAOm+pyir05xNci+Sv7JzwmwKBgQC+0AiIBk8EbHWlSuBEqJnxAB6kTIZrWZT4\nBO5GHq7T0lg9mRqYiqmpB4hivM3BxkU2/1refR84Ae4nsZhSfhwkCIfBOwJmTthW\nRHz1e2Y5TbrBRSIUvftPk4og/gdhf93uupo/cBLPj01aaVO5ltg59T6hMi9x0wYo\nQBwzPKyWXwKBgFoD1QwnY2PsQ+n2jcVk1loGevasLPneCjWdsJEskmZObBDlhc/P\nB5+VBNLPVLmS/WLW4wBVEKE4ffNBoD/MhwdC2kxwlYDeSjaltH4HkFEGVq29nAXV\nO18r65uVUqhv/QRbsSoNCK3nIsAc9lLpPWmKy7fgsTUHlxokVDdGNj1NAoGASOVW\n7Qhj9Y+t3ijdxr0WmoBuNFxb2fUOOTZBBR7BsYChX173TyFiMYYEL5xrisTBOoKR\nZ4Arhg0Ou7FYPOOawpVTr5lokEc81LAzgODUq72rRByyKXRu5va5hWMm1LOxyHsX\nZHbfaNYZOhoU90jOcE3l0FVI1NZGeugLHfPnB0cCgYEAtCwUFFXeiwe9R0+tw9F6\n4Q/FcTG2iZkHFNZBm6Z3QPkCGqgq6sTXyEaFglKii6b2+85vMiU+OvhuGaSvl7oq\nT0kCOdKWWhOnjO9UhTOSiYDt78R1HxYQu0REKCjrbFl3zbhZAYRP379gD61Au8T7\nnH9BQ/P2ddTTWou3ljsYpI8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "netlify@netlifysitetemplate.iam.gserviceaccount.com",
+  "client_id": "101311213743109063144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/netlify%40netlifysitetemplate.iam.gserviceaccount.com"
+}
